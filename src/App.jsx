@@ -1,4 +1,4 @@
-import { MoviesGrid } from "./comonent/MoviesGrid/MoviesGrid";
+import { MoviesGrid } from "./component/MoviesGrid/MoviesGrid";
 import styles from "./App.module.css"
 
 export function App() {
